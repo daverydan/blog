@@ -1,4 +1,4 @@
-Tesr Rails Blog App - Danny
+Test Rails Blog App - Danny
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
